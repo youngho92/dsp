@@ -79,3 +79,8 @@ ___
 Here's an inline link to [Google](http://google.com/).
 
 print "hello world!"
+
+First Header | Second Header
+--------- | -----------------
+Content from cell 1 | Content from cell 2
+Content in the first | Content in the second
