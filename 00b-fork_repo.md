@@ -76,3 +76,4 @@ _This is italic_
 
 ___
 
+Here's an inline link to [Google](http://google.com/).
