@@ -68,19 +68,4 @@ Here's your first chance to practice this:
 
 What is your favorite emoji?  (Check out this [emoji cheat sheet](http://www.emoji-cheat-sheet.com/).)
 
->> :watermelon: :smiley:
-
-**This is bold**  
-*This is italic*  
-_This is italic_  
-
-___
-
-Here's an inline link to [Google](http://google.com/).
-
-print "hello world!"
-
-First Header | Second Header
---------- | -----------------
-Content from cell 1 | Content from cell 2
-Content in the first | Content in the second
+>> :watermelon:
