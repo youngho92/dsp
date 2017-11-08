@@ -72,5 +72,7 @@ What is your favorite emoji?  (Check out this [emoji cheat sheet](http://www.emo
 
 **This is bold**  
 *This is italic*  
----
 _This is italic_  
+
+___
+
