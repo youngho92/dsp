@@ -34,7 +34,14 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> >
+'ls': list all files
+'ls -a': list hidden files starting with "."
+'ls -l': list long formats
+'ls -lh': list long formats with readable size
+'ls -lah': list long formats inccluding hidden files
+'ls -t': sort by time & date
+'ls Glp': Not sure
 
 ---
 
@@ -42,7 +49,13 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > 
+
+ls -s
+ls -S
+ls -X
+ls -d
+ls -F
 
 ---
 
@@ -50,7 +63,7 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > xargs is a command on Unix and most Unix-like operating systems used to build and execute commands from standard input.
 
  
 
