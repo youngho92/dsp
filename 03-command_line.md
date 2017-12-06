@@ -19,7 +19,16 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> >
+ls
+mkdir temp
+rm temp
+touch temp.txt
+rm temp.txt
+cp temp.txt
+mv temp.txt temp2.txt
+ls -a
+cp temp.txt temp2/
 
 ---
 
