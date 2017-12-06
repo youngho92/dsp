@@ -19,20 +19,28 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > 
+ls
+mkdir temp
+rm temp.txt
+touch temp.txt
+rm -r temp
+cat temp.txt > temp2.txt
+ls -a
+cp a.txt b/
 
 ---
 
 ### Q2.  List Files in Unix   
 
 What do the following commands do:  
-`ls`  
-`ls -a`  
-`ls -l`  
-`ls -lh`  
-`ls -lah`  
-`ls -t`  
-`ls -Glp`  
+`ls`  list all files
+`ls -a`  list hidden files starting with .
+`ls -l`  list with long format
+`ls -lh`  list long format with readable size
+`ls -lah`  list long format with hidden files
+`ls -t`  list sorted by time & date
+`ls -Glp`  IDK
 
 > > REPLACE THIS TEXT WITH YOUR RESPONSE
 
@@ -42,7 +50,13 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > 
+ls -X
+ls -s
+ls -d
+ls -f
+ls -S
+
 
 ---
 
@@ -50,7 +64,8 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > xargs is a command on Unix and most Unix-like operating systems used to build and execute commands from standard input.
+cat temp.txt | sort > temp2.txt (save sorted version of temp.txt in temp2.txt)
 
  
 
