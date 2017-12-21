@@ -2,4 +2,4 @@
 
 >> This is not perfectly uniform, but it approximates the uniform distribution.
 
-(insert-image (creatre-image "unifom.png"))
+(insert-image (create-image "/dsp/statistics/unifom.png"))
